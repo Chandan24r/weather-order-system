@@ -1,0 +1,125 @@
+[
+  {
+    "order_id": "1001",
+    "customer": "Alice Smith",
+    "city": "New York",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1002",
+    "customer": "Bob Jones",
+    "city": "Mumbai",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1003",
+    "customer": "Charlie Green",
+    "city": "London",
+    "status": "Delayed",
+    "message": "Hi Charlie Green, your order to London is delayed due to Rain. We appreciate your patience!"
+  },
+  {
+    "order_id": "1004",
+    "customer": "David Lee",
+    "city": "Tokyo",
+    "status": "Delayed",
+    "message": "Hi David Lee, your order to Tokyo is delayed due to Rain. We appreciate your patience!"
+  },
+  {
+    "order_id": "1005",
+    "customer": "Emma Watson",
+    "city": "Paris",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1006",
+    "customer": "Rahul Sharma",
+    "city": "Delhi",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1007",
+    "customer": "Sophia Brown",
+    "city": "Sydney",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1008",
+    "customer": "Liam Johnson",
+    "city": "Toronto",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1009",
+    "customer": "Olivia Davis",
+    "city": "Dubai",
+    "status": "Delayed",
+    "message": "Hi Olivia Davis, your order to Dubai is delayed due to Rain. We appreciate your patience!"
+  },
+  {
+    "order_id": "1010",
+    "customer": "Carlos Martinez",
+    "city": "Madrid",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1011",
+    "customer": "Anna Müller",
+    "city": "Berlin",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1012",
+    "customer": "Chen Wei",
+    "city": "Beijing",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1013",
+    "customer": "Fatima Khan",
+    "city": "Karachi",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1014",
+    "customer": "John Doe",
+    "city": "Los Angeles",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1015",
+    "customer": "Jane Doe",
+    "city": "Chicago",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1016",
+    "customer": "Mohammed Ali",
+    "city": "Cairo",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1017",
+    "customer": "Lucas Silva",
+    "city": "São Paulo",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1018",
+    "customer": "Noah Kim",
+    "city": "Seoul",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1019",
+    "customer": "Ava Taylor",
+    "city": "Melbourne",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1020",
+    "customer": "Invalid User",
+    "city": "InvalidCity123",
+    "status": "Pending"
+  }
+]
